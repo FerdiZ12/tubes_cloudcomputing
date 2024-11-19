@@ -66,7 +66,7 @@
                     class="col-xl-5 col-lg-6 pt-3 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
                     <h1>CAREER CAST</h1>
                     <h2>Temukan pekerjaan yang sesuai dengan klasifikasi anda di website career cast</h2>
-                    <div><a href="https://is.ittelkom-sby.ac.id/" class="btn-get-started scrollto">INFO LEBIH LANJUT</a></div>
+                    <div><a href="https://is.ittelkom-sby.ac.id/" class="btn-get-started scrollto">Info Lebih Lanjut</a></div>
                 </div>
                 <div class="col-xl-4 col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-in" data-aos-delay="150">
                     <img src="assets_welcome/img/hero-img.png" class="img-fluid animated" alt="">
@@ -86,7 +86,7 @@
                     <div class="row">
 
                         <div class="col-lg-3 col-md-6 footer-contact">
-                            <h3>Career Cast Sistem Informasi</h3>
+                            <h3>Career Cast</h3>
                             <p>
                                 Jl. Ketintang 156 <br>
                                 Surabaya, Indonesia<br>
