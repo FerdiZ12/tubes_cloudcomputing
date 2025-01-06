@@ -89,7 +89,7 @@
                             <h3>Career Cast</h3>
                             <p>
                                 Jl. Ketintang 156 <br>
-                                Surabaya, Indonesia<br>
+                                Surabaya, Jawa Timur, Indonesia<br>
                                 <strong>Instagram:</strong> HMSI IT TELKOM SURABAYA <br>
                                 <strong>Email:</strong> careercast@gmail.com<br>
                             </p>
